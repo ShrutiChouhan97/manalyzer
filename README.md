@@ -5,6 +5,6 @@ private/db_env.json
 
 Example:
 {
-  "url": "https://your-project.supabase.co",
-  "key": "your-key"
+  "supabase_url": "https://your-project.supabase.co",
+  "supabase_key": "your-key"
 }
