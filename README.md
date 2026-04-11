@@ -1,6 +1,7 @@
 ##Supabase config
+
 Save resources to connect supabase db:
-private/supabase.json
+private/db_env.json
 
 Example:
 {
