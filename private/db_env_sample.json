@@ -1,4 +1,7 @@
 {
-    "supabase_url": "https://your-project.supabase.co", 
-    "supabase_key": "your-key"
+    "supabase_url": "https://uyyytewuotftrtglzvhf.supabase.co", 
+    "supabase_key": "sb_secret_Fz-UuvY-HJRBaX4GHWAnUg_zdis3dQU",
+    "openai_base_url":"https://llm-api.arc.vt.edu/api/v1",
+    "openai_api_key":"sk-ab440ef44da841f3a986bba2effe9df6",
+    "openai_model":"gpt-oss-120b"
 }
